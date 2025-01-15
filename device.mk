@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/sprd/HSL67E_G
+LOCAL_PATH := device/sprd/twrp_device_sprd_HSL67E_G
