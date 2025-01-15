@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=HSL67E_G
+DEVICE=twrp_device_sprd_HSL67E_G
 VENDOR=sprd
 
 # Load extract_utils and do some sanity checks
