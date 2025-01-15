@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_HSL67E_G.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_HSL67E_G-user \
-    omni_HSL67E_G-userdebug \
-    omni_HSL67E_G-eng
+    omni_twrp_device_sprd_HSL67E_G-user \
+    omni_twrp_device_sprd_HSL67E_G-userdebug \
+    omni_twrp_device_sprd_HSL67E_G-eng
