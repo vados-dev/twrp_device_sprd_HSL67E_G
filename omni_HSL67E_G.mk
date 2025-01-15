@@ -12,7 +12,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 # Inherit from HSL67E_G device
-$(call inherit-product, device/sprd/HSL67E_G/device.mk)
+$(call inherit-product, device/sprd/twrp_device_sprd_HSL67E_G/device.mk)
 
 PRODUCT_DEVICE := HSL67E_G
 PRODUCT_NAME := omni_HSL67E_G
